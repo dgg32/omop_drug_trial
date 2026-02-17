@@ -3,7 +3,7 @@
 
   
 
-This repository contains code and data for my article "[Connecting Patients to Drug Trials: Federating OMOP CDM and Ducklake Knowledge Graph](https://medium.com/@dgg32/graph-visualization-for-duckpgq-e6a551d11b94)".
+This repository contains code and data for my article "[Connecting Patients to Drug Trials: Federating OMOP CDM and Ducklake Knowledge Graph](https://medium.com/@dgg32/connecting-patients-to-drug-trials-federating-omop-cdm-and-ducklake-knowledge-graph-18e341d2ee30)".
 
 
 
