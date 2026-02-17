@@ -1,0 +1,8 @@
+concept concept_id snomed cui patients_count
+Osteoporosis 80502 64859006 C0029456 52
+
+
+
+concept concept_id RXNORM cui patients_count
+Naproxen 1115008 7258 C0027396 236
+

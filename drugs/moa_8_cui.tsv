@@ -1,0 +1,542 @@
+id	name
+C2757016	Protein Kinase Inhibitors
+C2962190	Cytochrome P450 2D6 Inhibitors
+C2962753	Cytochrome P450 3A4 Inhibitors
+C1515672	mTOR Inhibitors
+C2757009	Nucleic Acid Synthesis Inhibitors
+C1373046	Somatostatin Receptor Agonists
+C3856094	Janus Kinase Inhibitors
+C1373132	Adrenergic beta2-Agonists
+C2266875	Endothelin Receptor Antagonists
+C1373118	Tumor Necrosis Factor Receptor Interactions
+C3205597	CD30-directed Antibody Interactions
+C2757019	Biological Response Modifiers
+C2267209	Tumor Necrosis Factor alpha Receptor Blocking Activity
+C2266940	Tumor Necrosis Factor Receptor Blocking Activity
+C2757022	Cholinergic Antagonists
+C1373102	Cholinergic Muscarinic Antagonists
+C2916842	E3 Ubiquitin Ligase Inhibitors
+C3160092	B Lymphocyte Stimulator-directed Antibody Interactions
+C2917257	Integrin Receptor Antagonists
+C3864925	Interleukin-6 Antagonists
+C4084257	SLAMF7-directed Antibody Interactions
+C1152564	Kinase Inhibitors
+C1373092	Insulin Receptor Agonists
+C4051516	PCSK9 Inhibitors
+C2756995	Enzyme Inhibitors
+C1373040	beta Lactamase Inhibitors
+C3883352	Programmed Death Receptor-1-directed Antibody Interactions
+C2757011	Tyrosine Kinase Inhibitors
+C4084255	CD38-directed Antibody Interactions
+C1373064	Pituitary Hormone Receptor Agonists
+C2266856	Proteasome Inhibitors
+C1373129	Bone Surface Interactions
+C2916831	HER1 Antagonists
+C2267154	BRAF Serine/Threonine Kinase Inhibitors
+C2917254	Dipeptidyl Peptidase 4 Inhibitors
+C3665047	Sodium-Glucose Transporter 2 Inhibitors
+C4019043	Poly(ADP-Ribose) Polymerase Inhibitors
+C1372996	GABA A Antagonists
+C1373082	Androgen Receptor Antagonists
+C4475440	Programmed Death Ligand-1-directed Antibody Interactions
+C4475439	Programmed Death Ligand-1 Antagonists
+C3537049	Metal Chelating Activity
+C1373111	Nucleoside Reverse Transcriptase Inhibitors
+C4522891	Vascular Endothelial Growth Factor Inhibitors
+C4084261	Epoxide Hydrolase Inhibitors
+C1373066	Enzyme Interactions
+C4294556	Interleukin-23 Antagonists
+C2267115	Receptor Tyrosine Kinase Inhibitors
+C4018500	Multidrug and Toxin Extrusion Transporter 1 Inhibitors
+C3665038	Cytochrome P450 2B6 Inducers
+C3883354	Organic Cation Transporter 1 Inhibitors
+C3883353	P-Glycoprotein Inducers
+C3819035	Breast Cancer Resistance Protein Inhibitors
+C3819038	Cytochrome P450 3A Inducers
+C3819043	Organic Anion Transporter 3 Inhibitors
+C3500476	Cytochrome P450 3A4 Inducers
+C5234669	Tropomyosin Receptor Kinases Inhibitors
+C2916791	Glucagon-like Peptide-1 (GLP-1) Agonists
+C3665041	Organic Cation Transporter 2 Inhibitors
+C3500483	P-Glycoprotein Inhibitors
+C2756984	HIV Integrase Inhibitors
+C2267221	Electrolyte Activity
+C2267222	Acid-Base Activity
+C1373089	Structural Macromolecules
+C2267178	Phosphate Chelating Activity
+C2917193	Acidifying Activity
+C1373108	Unknown Cellular or Molecular Interaction
+C2916807	Antibody-Surface Protein Interactions
+C2267208	Antibody-Receptor Interactions
+C2917234	Vascular Endothelial Growth Factor-directed Antibody Interactions
+C2267120	Vascular Endothelial Growth Factor Receptor Inhibitors
+C3883351	RNA Replicase Inhibitors
+C3819040	Organic Anion Transporting Polypeptide 2B1 Inhibitors
+C3819042	Organic Anion Transporting Polypeptide 1B1 Inhibitors
+C3819041	Organic Anion Transporting Polypeptide 1B3 Inhibitors
+C3160090	HCV NS3/4A Protease Inhibitors
+C5550909	Interferon Receptor Interactions
+C4294558	Interleukin-12 Antagonists
+C5833841	Fibroblast Growth Factor Receptor Inhibitors
+C1518622	Osmotic Activity
+C2916825	Antibody Interactions
+C3819028	Interleukin 6 Receptor Antagonists
+C3864928	Glucagon-like Peptide-2 (GLP-2) Agonists
+C4553800	Gene Transduction or Replacement
+C5781810	Survival of Motor Neuron 2 Splicing Modifiers
+C5550913	Multidrug and Toxin Extrusion Transporter 2 K Inhibitors
+C4703363	Gene Editing or Modification
+C2267210	Tumor Necrosis Factor beta Receptor Blocking Activity
+C2756982	Cyclooxygenase Inhibitors
+C1373004	Prostaglandin Receptor Antagonists
+C2757014	Calcium Channel Antagonists
+C2916792	Platelet-derived Growth Factor alpha Receptor Inhibitors
+C4759632	Bile Salt Export Pump Inhibitors
+C3500475	Cytochrome P450 2C9 Inhibitors
+C2267218	Biological Macromolecular Activity
+C1517315	Free Radical Scavenging Activity
+C4709344	HIV 1 Post-attachment Fusion Inhibitors
+C2757017	Dopamine Uptake Inhibitors
+C2757048	Histamine H1 Receptor Antagonists
+C2757029	Enzyme Activators
+C2962760	Sigma-1 Receptor Antagonists
+C2756999	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+C1373094	Cellular or Molecular Interactions
+C2266858	CD20-directed Antibody Interactions
+C2267146	Stem Cell Factor (KIT) Receptor Inhibitors
+C3665040	Cytochrome P450 2C8 Inhibitors
+C2962187	Cytochrome P450 2B6 Inhibitors
+C2267147	Colony Stimulating Factor Receptor Type 1 (CSF-1R) Inhibitors
+C3883348	UGT1A1 Inhibitors
+C2955534	Noncompetitive NMDA Receptor Antagonists
+C5446063	Mesenchymal Epithelial Transition Inhibitors
+C4522885	CD19 Receptor Interactions
+C1373006	Neurotransmitter Transporter Interactions
+C5445068	Bruton's Tyrosine Kinase Inhibitors
+C2757051	Protein Synthesis Inhibitors
+C3819037	Cytochrome P450 3A Inhibitors
+C2757023	Norepinephrine Uptake Inhibitors
+C2757053	Serotonin Uptake Inhibitors
+C2757068	Calcineurin Inhibitors
+C3267918	Bacterial Neurotoxin Neutralization
+C2757007	Dopamine Agonists
+C1373043	Serotonin Receptor Interactions
+C3537106	Growth Hormone Receptor Agonists
+C3883361	Cytochrome P450 1A2 Inducers
+C2757003	Angiotensin 2 Receptor Antagonists
+C2936805	Angiotensin 2 Type 1 Receptor Antagonists
+C2936780	DNA Gyrase Inhibitors
+C2267188	Topoisomerase 4 Inhibitors
+C2962193	P2Y12 Receptor Antagonists
+C3500478	Dihydroorotate Dehydrogenase Inhibitors
+C2936808	Sodium Chloride Symporter Inhibitors
+C2757042	Adrenergic alpha-Agonists
+C1373135	Adrenergic beta1-Agonists
+C1373097	Androgen Receptor Agonists
+C1373038	GABA B Receptor Interactions
+C1373022	GABA A Receptor Interactions
+C2916833	L-Calcium Channel Receptor Antagonists
+C2756989	Adrenergic alpha-Antagonists
+C2757052	Serotonin Antagonists
+C2757063	Serine Proteinase Inhibitors
+C1383096	Immunologic Adjuvants
+C2266855	Nucleoside Synthesis Inhibitors
+C2955436	Sphingosine 1-Phosphate Receptor Modulators
+C2756978	Monoamine Oxidase Inhibitors
+C2917290	Monoamine Oxidase-B Inhibitors
+C2757061	Adrenergic beta-Antagonists
+C1373134	Adrenergic beta1-Antagonists
+C1373133	Adrenergic beta2-Antagonists
+C2757046	Carbonic Anhydrase Inhibitors
+C3665043	RANK Ligand Blocking Activity
+C2916795	HER2/Neu/cerbB2 Antagonists
+C2757001	Cyclooxygenase 2 Inhibitors
+C2267219	Enzymatic Activity
+C1373120	Non-Nucleoside Reverse Transcriptase Inhibitors
+C2757006	Immunologic Factor Interactions
+C2936807	Sodium Channel Antagonists
+C1373048	Dihydrofolate Reductase Inhibitors
+C1373052	Progestational Hormone Receptor Agonists
+C2916841	AMPA Receptor Antagonists
+C3883341	UGT2B7 Inhibitors
+C3883344	UGT1A9 Inhibitors
+C2962186	Cytochrome P450 1A2 Inhibitors
+C1373109	Adrenergic alpha1-Agonists
+C1373039	Dopamine Receptor Interactions
+C2962188	Cytochrome P450 2C19 Inhibitors
+C2267137	14-alpha Demethylase Inhibitors
+C1373130	Ergosterol Synthesis Inhibitors
+C2756975	Alkylating Activity
+C2267041	CD3-directed Antibody Interactions
+C2267042	CD3 Receptor Agonists
+C4018499	CD19-directed Antibody Interactions
+C2757002	Serotonin 5HT-3 Antagonists
+C1373137	Adrenergic alpha1-Antagonists
+C2757064	Lipoxygenase Inhibitors
+C2266939	Corticosteroid Hormone Receptor Agonists
+C1373068	Glucocorticoid Receptor Agonists
+C3205599	Phosphodiesterase 4 Inhibitors
+C1372991	Physiochemical Activity
+C2917256	Dopamine D2 Antagonists
+C2757008	Dopamine Antagonists
+C3160094	CTLA-4-directed Antibody Interactions
+C2756988	Thymidylate Synthetase Inhibitors
+C2916820	Folic Acid Metabolism Inhibitors
+C1373007	Estrogen Receptor Agonists
+C2917221	Full Opioid Agonists
+C1384478	Proton Pump Inhibitors
+C2757012	Cholinesterase Inhibitors
+C2916835	Hypothalamic Hormone Receptor Agonists
+C2267072	Gonadotropin Releasing Hormone Receptor Agonists
+C2917178	Acetylcholine Release Inhibitors
+C1373113	Acetylcholine Transporter Interactions
+C1511682	DNA Methyltransferase Inhibitors
+C3265464	Antigen Neutralization
+C4475437	Interleukin 4 Receptor alpha Antagonists
+C3537021	Transcription Factor Activity
+C1373075	Hormone Receptor Modulators
+C2267038	Fusion Protein Interactions
+C1372999	Receptor Interactions
+C1373021	Mineralocorticoid Receptor Antagonists
+C2267138	Phosphodiesterase 5 Inhibitors
+C4551433	Growth Hormone Secretagogue Receptor Agonists
+C2916798	Peroxisome Proliferator-activated Receptor gamma Agonists
+C2916813	Peroxisome Proliferator-activated Receptor alpha Agonists
+C1373095	Hormone Receptor Agonists
+C5445070	Rearranged during Transfection (RET) Inhibitors
+C5774143	Nuclear Export Inhibitors
+C3668487	Membrane Transporter Interactions
+C5550906	Calcitonin Gene-related Peptide Antagonists
+C2917210	Complement Inhibitors
+C5671140	Thymic Stromal Lymphopoietin Blockers
+C5550900	Amyloid Beta-directed Antibody Interactions
+C4020251	Antibody-Surface Antigen Interactions
+C5550910	Type I interferon Receptor Antagonists
+C1511685	DNA Polymerase Inhibitors
+C4283300	Lymphocyte Function-Associated Antigen-1 Antagonists
+C3160097	Cytochrome P450 17A1 Inhibitors
+C2756991	HIV Protease Inhibitors
+C2757060	Aromatase Inhibitors
+C4020257	Interleukin-17A Antagonists
+C1373055	Sodium Channel Interactions
+C2757056	Selective Estrogen Receptor Modulators
+C2757015	Leukotriene Receptor Antagonists
+C2267213	Imaging Contrast Activity
+C2267214	X-Ray Contrast Activity
+C1373018	GABA B Agonists
+C1373017	GABA A Modulators
+C1373044	GABA A Agonists
+C2757013	Antithrombins
+C2267054	Factor Xa Inhibitors
+C4535232	CD22-directed Antibody Interactions
+C2266880	Peroxisome Proliferator-activated Receptor Activity
+C2266999	Oxidation Activity
+C2916810	Platelet-derived Growth Factor Receptor Inhibitors
+C2757059	Lipase Inhibitors
+C4060041	Opioid mu-Receptor Agonists
+C1373035	Ribonucleotide Reductase Inhibitors
+C1373147	Tubulin Interactions
+C2267144	VEGFR2 Inhibitors
+C2757043	Adrenergic beta-Agonists
+C4318161	Interleukin 17 Receptor A Antagonists
+C4318162	Interleukin 17 Receptor A Interactions
+C2936809	Sodium Potassium Chloride Symporter Inhibitors
+C2757004	Aldosterone Antagonists
+C1373005	Prostaglandin Receptor Agonists
+C2757044	Angiotensin-converting Enzyme Inhibitors
+C1373070	Chloride Channel Interactions
+C3267937	Smoothened Receptor Antagonists
+C2267172	Prostacyclin Receptor Agonists
+C2916828	Receptor Activity Modifying Protein Agonists
+C1373110	Adrenergic alpha2-Agonists
+C4051514	Neprilysin Inhibitors
+C3267935	Kallikrein Inhibitors
+C4060042	Interleukin-5 Antagonists
+C1373124	Thrombin Inhibitors
+C1373127	Antithrombin Activators
+C4301672	Vasopressin V2 Receptor Antagonists
+C2267000	Reduction Activity
+C2267189	Topoisomerase 2 Inhibitors
+C1384454	Topoisomerase Inhibitors
+C1373098	Estrogen Receptor Antagonists
+C3500474	Cytochrome P450 2C9 Inducers
+C1373036	Potassium Channel Interactions
+C3528603	Cytochrome P450 2C19 Inducers
+C1373138	Transpeptidase Inhibitors
+C4027039	Hyperpolarization-activated Cyclic Nucleotide-gated Channel Antagonists
+C2266859	CD52-directed Antibody Interactions
+C2757027	Cholinergic Nicotinic Agonists
+C2917220	Full Cholinergic Nicotinic Agonists
+C1373143	beta Tubulin Interactions
+C2756980	Plasminogen Activators
+C2917231	Thrombopoietin Receptor Agonists
+C3819031	Guanylate Cyclase Stimulators
+C2917201	Catechol O-Methyltransferase Inhibitors
+C2267122	Bcr-Abl Tyrosine Kinase Inhibitors
+C2267131	Glucosylceramide Synthase Inhibitors
+C5878975	Enzyme Stabilizers
+C3265468	Virus Neutralization
+C2267185	Increased Calcium-sensing Receptor Sensitivity
+C5833427	Interleukin-36 Receptor Antagonists
+C3864936	Antibody-Soluble Protein Interactions
+C5878972	Hypoxia-Inducible Factor Prolyl Hydroxylase Inhibitors
+C5550915	Ileal Bile Acid Transporter Inhibitors
+C2916797	G-Protein-linked Receptor Interactions
+C2267163	Glucagon-like Peptide-1 (GLP-1) Receptor Interactions
+C2266980	Dipeptidase Inhibitors
+C1373086	Thyroid Hormone Receptor Agonists
+C5782144	Tyrosine Kinase 2 Inhibitors
+C2757000	Radiopharmaceutical Activity
+C5574402	Cytomegalovirus pUL97 Kinase Inhibitors
+C2757026	Cholinergic Muscarinic Agonists
+C2757066	Cholinergic Agonists
+C2756998	Serotonin Agonists
+C3537246	Cannabinoid Receptor Antagonists
+C5443980	Calcitonin Gene-related Peptide Receptor Antagonists
+C2756997	Protease Inhibitors
+C3819039	UDP Glucuronosyltransferases Inducers
+C5234667	CD123 Interactions
+C2266857	CD33-directed Antibody Interactions
+C5671147	Hypoxia-inducible Factor Inhibitors
+C1656262	Phosphodiesterase Inhibitors
+C1661195	Ubiquitin Ligase Inhibitors
+C1373158	Squalene Monooxygenase Inhibitors
+C3819044	Organic Anion Transporter 1 Inhibitors
+C1372997	Glycine Agonists
+C2962751	CD80-directed Antibody Interactions
+C2962752	CD86-directed Antibody Interactions
+C4709342	Interleukin 5 Receptor alpha-directed Antibody Interactions
+C2917207	Cholinergic Neuromuscular Nicotinic Antagonists
+C2917208	Competitive Cholinergic Nicotinic Antagonists
+C3854078	Selective Progesterone Receptor Modulators
+C1383102	Tissue Plasminogen Activators
+C2955440	Uncompetitive NMDA Receptor Antagonists
+C2962756	Sigma-1 Receptor Agonists
+C2917194	Adenosine Receptor Agonists
+C2917195	Adenosine Receptor Antagonists
+C1373051	Adenosine Deaminase Inhibitors
+C2756979	Opioid Antagonists
+C1383092	Histamine Receptor Antagonists
+C3864929	Orexin Receptor Antagonists
+C5434823	Adenosine Triphosphate-Citrate Lyase Inhibitors
+C1373093	Chloride Channel Antagonists
+C1373047	Ion Channel Interactions
+C5574401	Fluorescence Contrast Activity
+C3883345	UGT1A6 Inhibitors
+C3883346	UGT1A4 Inhibitors
+C3883347	UGT1A3 Inhibitors
+C3883342	UGT2B15 Inhibitors
+C2936806	Histamine H3 Receptor Antagonists
+C1373155	Glucagon Receptor Interactions
+C3485976	Adrenergic beta3-Agonists
+C2756990	Cholinesterase Reactivators
+C3485985	Serotonin 2c Receptor Agonists
+C4060039	Thymidine Phosphorylase Inhibitors
+C3267920	Carbamoyl Phosphate Synthetase 1 Activators
+C1373032	ATP-Binding Cassette (ABC) Transporter Interactions
+C4709337	DNA Terminase Complex Inhibitors
+C3819036	Cytochrome P450 3A5 Inhibitors
+C2917209	Competitive Opioid Antagonists
+C2917250	Partial Opioid Agonists
+C1373059	Opioid Agonists
+C5200855	Polymerase Acidic Endonuclease Inhibitors
+C2917238	Positron Emitting Activity
+C1384464	Xanthine Oxidase Inhibitors
+C2917230	IgE-directed Antibody Interactions
+C5574404	Isocitrate Dehydrogenase 1 Inhibitors
+C2266933	Neuraminidase Inhibitors
+C3205594	Bradykinin B2 Receptor Antagonists
+C2266992	Demulcent Activity
+C2757058	Potassium Channel Antagonists
+C2917289	Monoamine Oxidase-A Inhibitors
+C2916808	NMDA Receptor Antagonists
+C2916799	Para-Aminobenzoic Acid Inhibitors
+C2917245	Serotonin 3 Receptor Antagonists
+C3163330	Potassium Channel Openers
+C1373136	Adrenergic alpha2-Antagonists
+C2266861	Gonadotropin Releasing Hormone Receptor Antagonists
+C1373019	Pituitary Hormones Receptor Interactions
+C2917264	Magnetic Resonance Contrast Activity
+C2917265	Melanin Synthesis Inhibitors
+C2267139	Glucan Synthase Inhibitors
+C1373085	Sodium-Potassium Exchanging ATPase Interactions
+C5234668	Chemokine Receptor Type 4 Interactions
+C2916827	Neurokinin 1 Antagonists
+C2266942	Chloride Channel Activators
+C4551434	Rho Kinase Inhibitors
+C3855964	Vesicular Monoamine Transporter 2 Inhibitors
+C2266995	M2 Protein Inhibitors
+C1527256	Chelating Activity
+C2756994	Nitric Oxide Donors
+C2917203	CD2-directed Antibody Interactions
+C2962191	Cytochrome P450 Inhibitors
+C2916804	Alcohol Dehydrogenase Inhibitors
+C2916809	Ionotropic Glutamate Receptor Antagonists
+C2756986	alpha Glucosidase Inhibitors
+C0597832	Amylase Inhibitors
+C2266863	Phosphodiesterase 3 Inhibitors
+C2267136	Sclerosing Activity
+C2916837	Alkalinizing Activity
+C1373065	Vitamin K Epoxide Reductase Inhibitors
+C2757005	Histamine H2 Receptor Antagonists
+C2916800	Platelet-derived Growth Factor beta Receptor Inhibitors
+C4283299	Anthrax Protective Antigen-directed Antibody Interactions
+C2916819	Stool Bulking Activity
+C2266866	Binding Activity
+C5774142	Radioligand Activity
+C2757062	Dyes
+C1256499	Plasmin Inhibitors
+C2757050	Iron Chelating Activity
+C5781807	Prostaglandin E2 Receptor Agonists
+C2917244	Serotonin 1d Receptor Agonists
+C2917243	Serotonin 1b Receptor Agonists
+C2917202	CD11a-directed Antibody Interactions
+C0175779	Photoabsorption
+C5671143	GABA A Receptor Positive Modulators
+C0021048	Immunologic and Biological Factor Interactions
+C2916824	Surfactant Activity
+C2267045	Interleukin 2 Receptor-directed Antibody Interactions
+C1373152	Interleukin 2 Receptor Antagonists
+C2917233	Thyroid Hormone Synthesis Inhibitors
+C1373071	Uncouplers
+C1373100	Organic Anion Transporter Interactions
+C5781808	Zaire Ebolavirus Glycoprotein-directed Antibody Interactions
+C3265465	Bacterial Toxin Neutralization
+C2916801	Hypothalamic Hormone Receptor Antagonists
+C1373125	Platelet Glycoprotein IIb/IIIA Inhibitors
+C5234665	Viral Envelope Wrapping Protein Inhibitors
+C1373114	Cell Membrane Fusion Complex Interactions
+C2266867	Ion Exchange Activity
+C3500480	Guanylate Cyclase Activators
+C2267223	Norepinephrine Transporter Interactions
+C1373063	Serotonin Transporter Interactions
+C2266853	Histone Deacetylase Inhibitors
+C2266983	RNA Synthetase Inhibitors
+C2916844	Vasopressin Receptor Antagonists
+C4709341	Gene Expression Interactions
+C1373030	Somatotropin Receptor Agonists
+C5444107	Farnesyltransferase Inhibitors
+C5671148	Hypoxia-inducible Factor 2 alpha Inhibitors
+C4709339	Gene Transcription Modulation
+C1373078	Melatonin Receptor Agonists
+C2757025	Adrenergic Agonists
+C1373029	Somatostatin Receptor Interactions
+C5671150	Glycoprotein 100 Peptide-Human Leukocyte Antigen-directed Antibody Interactions
+C4020252	Antibody-Surface Glycolipid Interactions
+C3665039	Cytochrome P450 2C8 Inducers
+C2267002	Cystine Disulfide Reduction
+C2267039	Fusion Protein Inhibitors
+C2917540	Decarboxylase Inhibitors
+C3267921	Chloride Channel Activation Potentiators
+C2916829	T-Calcium Channel Receptor Antagonists
+C2757067	Reverse Transcriptase Inhibitors
+C2916836	Amylin Agonists
+C1373020	Calcium Channel Interactions
+C2917177	5-Lipoxygenase Inhibitors
+C4325192	Tryptophan Hydroxylase Inhibitors
+C3819024	Phenylalanine Hydroxylase Activators
+C5833424	Vasopressin Receptor Agonists
+C5671142	Opioid kappa Receptor Agonists
+C2917197	Adrenal Steroid Synthesis Inhibitors
+C4709340	Gene Alterations
+C2266937	Chemokine Co-receptor 5 Antagonists
+C3537245	Cannabinoid Receptor Agonists
+C2266876	Bile-acid Binding Activity
+C1373012	Mineralocorticoid Receptor Agonists
+C3864933	Protease-activated Receptor-1 Antagonists
+C2757049	Interferon Inducers
+C1373151	Interleukin 2 Receptor Agonists
+C1373148	Cellular Structure Molecule Interactions
+C4535235	Isocitrate Dehydrogenase 2 Inhibitors
+C2917249	Partial Cholinergic Nicotinic Agonists
+C2917246	Serotonin 4 Receptor Antagonists
+C5399735	Serotonin 4 Receptor Agonists
+C5671151	Neonatal Fc Receptor Blockers
+C3883360	Cytochrome P450 2D6 Inducers
+C5446067	Cyclin-dependent Kinase 6 Inhibitors
+C5550920	Cyclin-dependent Kinase 4 Inhibitors
+C2266864	Urease Inhibitors
+C2955531	Lysophospholipid Receptor Interactions
+C2917260	Interleukin 1 Receptor Antagonists
+C2267179	Copper Chelating Activity
+C4084260	Urate Transporter 1 Inhibitors
+C5550919	Angiopoietin-like 3 Inhibitors
+C5550923	Cytochrome P450 11B1 Inhibitors
+C5781812	Histamine H3 Receptor Inverse Agonists
+C2757032	Complement 1 Inactivators
+C5671141	Classical Complement Pathway Inhibitors
+C5550912	Insulin-like Growth Factor-1 Receptor Inhibitors
+C2916811	N-Calcium Channel Receptor Antagonists
+C4020253	Glycolipid Disialoganglioside-directed Antibody Interactions
+C2756987	5-alpha Reductase Inhibitors
+C1373058	Cytokine Receptor Superfamily Interactions
+C5550922	Cytochrome P450 2A6 Inhibitors
+C4020258	Interleukin-17A-directed Antibody Interactions
+C5550911	Insulin-like Growth Factor-1 Receptor Interactions
+C5833420	Melanocortin Receptor Agonists
+C5550902	Glucagon Receptor Agonists
+C5550908	Melanocortin 4 Receptor Agonists
+C5873962	HIV Capsid Inhibitors
+C2917229	Hydroxyphenylpyruvate Dioxygenase Inhibitors
+C5550901	Cytochrome P450 2E1 Inducers
+C3643465	Microsomal Triglyceride Transfer Protein Inhibitors
+C2917287	Methylating Activity
+C4301671	Vasopressin V1 Receptor Antagonists
+C5234666	Interferon gamma Antagonists
+C1373069	Parathormone Receptor Agonists
+C5781813	Cardiac Myosin Inhibitors
+C4276104	Farnesoid X Receptor Agonists
+C1373053	Acetyl Aldehyde Dehydrogenase Inhibitors
+C2917235	Vesicular Monoamine Transporter Antagonists
+C4046836	Cytochrome P450 1A Inducers
+C1373088	GABA B Antagonists
+C2267182	Secretin Receptor Agonists
+C5550921	Cytochrome P450 1A1 Inhibitors
+C2917198	Ammonium Ion Binding Activity
+C1372992	Macrophage Colony Stimulating Factor Receptor Interactions
+C5445071	Mitogen-Activated Protein Kinase Kinase 2 Inhibitors
+C5446066	Mitogen-Activated Protein Kinase Kinase 1 Inhibitors
+C2917206	Cholinergic Neuromuscular Nicotinic Agonists
+C1373077	GABA B Modulators
+C5849126	Neurokinin 3 Receptor Antagonists
+C5849125	FMS-like Receptor Tyrosine Kinase 3 (FLT3) Inhibitors
+C5574397	Interleukin-13 Antagonists
+C4051512	Metalloprotease Inhibitors
+C2916812	Keratinocyte Growth Factor Receptor Agonists
+C5834371	Hemoglobin S Polymerization Inhibitors
+C2917237	Vitamin K Inhibitors
+C5781814	P-Selectin Blockers
+C2917226	Heparin Binding Activity
+C2266934	Complement 5 Inactivators
+C5574400	Complement 5a Receptor Antagonists
+C5574403	Cytochrome P450 11A1 Inhibitors
+C2927152	HIV Fusion Protein Inhibitors
+C1373001	Progestational Hormone Receptor Antagonists
+C1373003	Glucocorticoid Receptor Antagonists
+C2917262	Lead Chelating Activity
+C2266865	Calcium Chelating Activity
+C5782142	Sodium-Hydrogen Exchanger 3 Inhibitors
+C3668479	Antiporter Interactions
+C4709343	CD4-directed Antibody Interactions
+C5446064	Methyltransferase Inhibitors
+C1373126	Platelet Activating Factor Inhibitors
+C5781804	UGT1A1 Inducers
+C5671144	Pyruvate Kinase Activators
+C2267043	CD3 Receptor Antagonists
+C2917241	Renin Inhibitors
+C2267071	Cholinergic Ganglionic Nicotinic Antagonists
+C1373090	Cholinergic Nicotinic Antagonists
+C3883350	UDP Glucuronosyltransferases Inhibitors
+C1373067	Steroid Receptor Antagonists
+C1373156	Growth Hormone Receptor Antagonists
+C2266872	Catecholamine Synthesis Inhibitors
+C5574398	Beta-globin Gene Transfer
+C2757018	Adrenergic Antagonists
+C2917255	DOPA Decarboxylase Inhibitors
+C2917263	Magnesium Ion Exchange Activity
+C2314883	Irrigation
+C1373072	Adrenergic Receptor Interactions
+C3267923	Digoxin Binding Activity
+C3265466	Endogenous Antigen Neutralization
+C2917239	Potassium Ion Binding Activity
+C2267215	Ultrasound Contrast Activity

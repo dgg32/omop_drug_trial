@@ -1,0 +1,309 @@
+condition	condition_cui	condition_preferred_umls_name
+Acne Vulgaris	C0001144	Acne Vulgaris
+Systemic Lupus Erythematosus	C0024141	Lupus Erythematosus, Systemic
+Psoriasis	C0033860	Psoriasis
+Hypertension	C0020538	Hypertensive disease
+Nausea and Vomiting, Chemotherapy-Induced	C0401160	Chemotherapy-induced nausea and vomiting
+Dermatitis, Chronic	C0262975	Chronic dermatitis
+Pulmonary Disease, Chronic Obstructive	C0024117	Chronic Obstructive Airway Disease
+Rhinitis, Allergic, Perennial	C0035457	Rhinitis, Allergic, Perennial
+Rhinitis, Allergic, Seasonal	C0348688	Other seasonal allergic rhinitis
+Asthma	C0004096	Asthma
+Acute Coronary Syndrome	C0948089	Acute Coronary Syndrome
+Embolism, Pulmonary	C0034065	Pulmonary Embolism
+Thrombosis, Venous	C0042487	Venous Thrombosis
+Mood Disorders	C0525045	Mood Disorders
+Epilepsy	C0014544	Epilepsy
+Bipolar Disorder	C0005586	Bipolar Disorder
+Hypertriglyceridemia	C0020557	Hypertriglyceridemia
+Diabetes Mellitus, Type 1	C0011854	Diabetes Mellitus, Insulin-Dependent
+Depressive Disorder	C0011581	Depressive disorder
+Infections, Bacterial	C0004623	Bacterial Infections
+Skin Infections, Bacterial	C0162627	Skin Diseases, Bacterial
+Atherosclerosis	C0004153	Atherosclerosis
+Fracture Healing	C0162542	Fracture Healing
+Osteoporosis	C0029456	Osteoporosis
+Parkinson Disease	C0030567	Parkinson Disease
+Restless Legs Syndrome	C0035258	Restless Legs Syndrome
+Alzheimer's Disease	C0002395	Alzheimer's Disease
+Diabetes Mellitus, Type 2	C0011860	Diabetes Mellitus, Non-Insulin-Dependent
+Rhinitis	C0035455	Rhinitis
+Migraine Disorders	C0149931	Migraine Disorders
+Sleep Initiation and Maintenance Disorders	C0021603	Sleep Initiation and Maintenance Disorders
+Sleep Disorders	C0851578	Sleep Disorders
+Acellular pertussis; Diphtheria; Poliomyelitis; Tetanus		
+Influenza, Human	C0021400	Influenza
+Seizures	C0036572	Seizures
+Neuralgia, Postherpetic	C0032768	Postherpetic neuralgia
+Mental Disorders	C0004936	Mental disorders
+Heart failure, Congestive	C0018802	Congestive heart failure
+Neoplasms, Prostate	C0033578	Prostatic Neoplasms
+Prostatic Hyperplasia	C2937421	Prostatic Hyperplasia
+Bronchospasm	C0006266	Bronchospasm
+Multiple Sclerosis, Relapsing-Remitting	C0751967	Multiple Sclerosis, Relapsing-Remitting
+Neuropathy, Diabetic	C0011882	Diabetic Neuropathies
+Arthritis, Rheumatoid	C0003873	Rheumatoid Arthritis
+Hyperreactivity, Bronchial	C0085129	Bronchial Hyperreactivity
+Infection, Human Immunodeficiency Virus I	C0276500	Human immunodeficiency virus I infection
+Infection, Human Immunodeficiency Virus	C0019693	HIV Infections
+Polyps, Nasal	C0027430	Nasal Polyp
+Depressive Disorder, Major	C1269683	Major Depressive Disorder
+Infections, Respiratory Tract	C0035243	Respiratory Tract Infections
+Otitis Media	C0029882	Otitis Media
+Pneumonia, Community-Acquired	C0694549	Community-Acquired Pneumonia
+Streptococcus pneumoniae	C0038410	Streptococcus pneumoniae
+Bronchitis, Chronic	C0008677	Bronchitis, Chronic
+Sinusitis	C0037199	Sinusitis
+Rhinitis, Vasomotor	C0035460	Rhinitis, Vasomotor
+Rhinitis, Allergic, Perennial and Seasonal	C0339812	Perennial allergic rhinitis with seasonal variation
+Thromboembolism	C0040038	Thromboembolism
+Hepatitis A; Hepatitis B	C0019159;C0019163	Hepatitis A;Hepatitis B
+Epilepsy, Tonic-Clonic	C0014549	Tonic-Clonic Epilepsy
+Epilepsy, Partial	C0014547	Epilepsies, Partial
+Schizophrenia	C0036341	Schizophrenia
+Peripheral Neuropathies	C4721453	Peripheral Nervous System Diseases
+Seizure, Absence	C4316903	Absence Seizures
+Fibromyalgia Syndrome, Primary	C0751152	Fibromyalgia, Primary
+Varicella	C0008049	Chickenpox
+Herpes Genitalis	C0019342	Genital Herpes
+Herpes Simplex	C0019348	Herpes simplex infection
+Herpes Labialis	C0019345	Herpes Labialis
+Infections, Herpesviridae	C0019372	Herpesviridae Infections
+Anxiety Disorders	C0003469	Anxiety Disorders
+Nausea and Vomiting, Postoperative	C0520909	Postoperative Nausea and Vomiting
+Vomiting	C0042963	Vomiting
+Smoking Cessation	C0085134	Cessation of smoking
+Multiple Sclerosis	C0026769	Multiple Sclerosis
+Dermatitis, Atopic	C0011615	Dermatitis, Atopic
+Tinnitus	C0040264	Tinnitus
+Social Phobia	C0031572	Phobia, Social
+Obsessive-Compulsive Disorder	C0028768	Obsessive-Compulsive Disorder
+Panic Disorder	C0030319	Panic Disorder
+Post-Traumatic Stress Disorder	C0038436	Post-Traumatic Stress Disorder
+Urinary Bladder, Overactive	C0878773	Overactive Bladder
+Lower Urinary Tract Symptoms / Benign Prostatic Hyperplasia	C4268886	Benign prostatic hyperplasia with lower urinary tract symptoms
+Influenza A Virus, H1N1 Subtype	C2076600	Influenza due to Influenza A virus subtype H1N1
+Malaria, Falciparum	C0024535	Malaria, Falciparum
+Malaria	C0024530	Malaria
+Premenstrual Syndrome	C0033046	Premenstrual syndrome
+Obsessive-Compulsive Disorder and Depressive Disorder	C0028768	Obsessive-Compulsive Disorder
+Depressive Disorder and Anxiety Disorders	C0743073	depression anxiety disorder
+Invasive Fungal Infections	C1262313	Invasive Fungal Infections
+Myocardial Perfusion Imaging	C2350390	Myocardial Perfusion Imaging
+Transplantation, Kidney	C0022671	Kidney Transplantation
+Transplantation, Liver	C0023911	Transplantation of liver
+Solid Tumours	C0280100	Solid Neoplasm
+Carcinoma, Renal Cell	C0007134	Renal Cell Carcinoma
+Neoplasms, Colorectal	C0009404	Colorectal Neoplasms
+Hypertrophy, Left Ventricular	C0149721	Left Ventricular Hypertrophy
+Retinopathy, Diabetic	C0011884	Diabetic Retinopathy
+Hypogonadism, Male	C0151721	Testicular hypogonadism
+Neoplasms, Gastrointestinal Tract	C0685938	Malignant neoplasm of gastrointestinal tract
+Neoplasms, Head and Neck	C0018671	Head and Neck Neoplasms
+Dermatitis, Seborrheic	C0036508	Seborrheic dermatitis
+Impetigo	C0021099	Impetigo
+Migraine, Without Aura	C2349476	Chronic migraine without aura
+Lymphoma, Non-Hodgkin	C0024305	Lymphoma, Non-Hodgkin
+Leukaemia, Lymphocytic, Chronic	C0023434	Chronic Lymphocytic Leukemia
+Urinary Incontinence	C0042024	Urinary Incontinence
+Lung Injury, Acute	C0242488	Acute Lung Injury
+Healthy Subjects	C1708335	Healthy Volunteers
+Inflammatory Bowel Diseases	C0021390	Inflammatory Bowel Diseases
+Dyslipidaemias	C0242339	Dyslipidemias
+Pain, Inflammatory	C0234251	Inflammatory pain
+Obesity	C0028754	Obesity
+Alcoholism	C0001973	Alcoholic Intoxication, Chronic
+Hepatitis C	C0019196	Hepatitis C
+Ischaemic Attack, Transient	C0007787	Transient Ischemic Attack
+Cerebrovascular Accident	C0038454	Cerebrovascular accident
+Substance Dependence	C0038580	Substance Dependence
+Osteoporosis, Postmenopausal	C0029458	Osteoporosis, Postmenopausal
+Osteoarthritis	C0029408	Degenerative polyarthritis
+Fibrillation, Atrial	C0004238	Atrial Fibrillation
+Cardiovascular Disease	C0007222	Cardiovascular Diseases
+Arrhythmia, Cardiac	C0003811	Cardiac Arrhythmia
+Thyroid Cancer	C0007115	Malignant neoplasm of thyroid
+acute coronary syndrome	C0948089	Acute Coronary Syndrome
+Hepatitis B	C0019163	Hepatitis B
+Hepatitis B, Chronic	C0524909	Hepatitis B, Chronic
+Crohn's Disease	C0010346	Crohn Disease
+Solid Tumors	C0280100	Solid Neoplasm
+Cancer	C0006826	Malignant Neoplasms
+Cognitive Disorders	C0009241	Cognition Disorders
+Constriction, Bronchial	C0079043	Bronchoconstriction
+Non-small cell lung cancer	C0007131	Non-Small Cell Lung Carcinoma
+Alopecia	C0002170	Alopecia
+Hepatitis C, Chronic	C0524910	Hepatitis C, Chronic
+Lymphoma, Follicular	C0024301	Lymphoma, Follicular
+Neoplasms, Ovarian	C0919267	ovarian neoplasm
+Lennox-Gastaut Syndrome	C0238111	Lennox-Gastaut syndrome
+Analgesia	C3202977	Analgesia
+Diabetes Mellitus	C0011849	Diabetes Mellitus
+Oesophagitis, Eosinophilic	C0341106	Eosinophilic esophagitis
+Chronic Obstructive Pulmonary Disease (COPD)	C0024117	Chronic Obstructive Airway Disease
+Chronic Myelogenous Leukemia	C0279543	Philadelphia chromosome positive chronic myelogenous leukemia
+Heart Failure	C0018801	Heart failure
+Non-small cell lung carcinoma (NSCLC)	C0007131	Non-Small Cell Lung Carcinoma
+Melanoma	C0025202	melanoma
+Liver Diseases	C0023895	Liver diseases
+Kidney Transplantation	C0022671	Kidney Transplantation
+Heart transplantation	C0018823	Heart Transplantation
+Liver Transplantation	C0023911	Transplantation of liver
+Neoplasms, Breast	C1458155	Mammary Neoplasms
+Sarcoma, Soft tissue	C4551687	Sarcoma of soft tissue
+Parkinson's Disease Dementia	C1828079	Dementia associated with Parkinson's Disease
+Psoriatic Arthritis	C0003872	Arthritis, Psoriatic
+Osteoporosis; Hip Fracture	C5972542	pathologic fracture of hip due to osteoporosis
+Respiratory Disorders	C0035204	Respiration Disorders
+Nutritional Status	C0392209	Nutritional status
+Anaemia	C0002871	Anemia
+Vascular Disease, Peripheral	C0085096	Peripheral Vascular Diseases
+Lung Cancer, Non-Small Cell	C0007131	Non-Small Cell Lung Carcinoma
+Asthma and Rhinitis	C1388875	rhinitis; asthma
+Huntington Disease	C0020179	Huntington Disease
+Gastroparesis	C0152020	Gastroparesis
+Cystic Fibrosis	C0010674	Cystic Fibrosis
+Premature Ejaculation	C0033038	Premature Ejaculation
+Embryo Transfer	C0013938	Embryo transfer (procedure)
+Pulmonary disease, Chronic Obstructive	C0024117	Chronic Obstructive Airway Disease
+Pain, Neuropathic	C3714625	Neuropathic pain
+Hyperhidrosis	C0020458	Hyperhidrosis (disorder)
+Cancer, Breast	C0006142	Malignant neoplasm of breast
+Allergic conjunctivitis	C0009766	Allergic Conjunctivitis
+Malaria, Vivax	C0024537	Malaria, Vivax
+Cataract	C0086543	Cataract
+Seizure Disorder Generalized Tonic Clonic	C0748577	SEIZURE DISORDER GENERALIZED TONIC CLONIC
+Hypereosinophilic Syndrome	C1540912	Hypereosinophilic syndrome
+Focal Infection, Dental	C0016398	Focal Infection, Dental
+Sinusitis, Acute	C0149512	Acute sinusitis
+Cholestasis, Intrahepatic	C0008372	Intrahepatic Cholestasis
+Osteopenia	C0029453	Osteopenia
+Ulcers, Duodenal and Gastric	C3843755	Gastric or duodenal ulcer
+Gastrointestinal Motility	C0017184	Gastrointestinal Motility
+Carcinoma, Hepatocellular	C2239176	Liver carcinoma
+Attention deficit hyperactivity disorder (ADHD)	C1263846	Attention deficit hyperactivity disorder
+Rheumatoid Arthritis	C0003873	Rheumatoid Arthritis
+Gastrointestinal Diseases	C0017178	Gastrointestinal Diseases
+Postpartum Hemorrhage	C0032797	Postpartum Hemorrhage
+Mild Asthma and Allergic Rhinitis	C4040498	Mild persistent asthma co-occurrent with allergic rhinitis
+Ankylosing Spondylitis	C0038013	Ankylosing spondylitis
+Herpes Zoster	C0019360	Herpes zoster (disorder)
+Coronary Artery Disease	C1956346	Coronary Artery Disease
+Soft Tissue Sarcoma	C4551687	Sarcoma of soft tissue
+Metastatic Renal Cell Carcinoma	C4721698	Metastatic Renal Cell Carcinoma
+Amyloidosis	C0002726	Amyloidosis
+Cachexia	C0006625	Cachexia
+Colitis, Ulcerative	C0009324	Ulcerative Colitis
+acellular pertussis; Diphtheria; Poliomyelitis; Tetanus		
+Urologic Diseases	C0042075	Urologic Diseases
+Breast Cancer	C0006142	Malignant neoplasm of breast
+Metastatic Breast Cancer	C0006142	Malignant neoplasm of breast
+Advanced Breast Cancer	C3495917	Advanced breast cancer
+Peripheral Neuropathic Pain	C0458960	Peripheral neuropathic pain
+Neurogenic detrusor overactivity	C0341736	Neurogenic detrusor overactivity
+Leukaemia, Myelocytic, Acute	C0023467	Leukemia, Myelocytic, Acute
+Insulin Resistance	C0021655	Insulin Resistance
+Idiopathic Pulmonary Fibrosis	C1800706	Idiopathic Pulmonary Fibrosis
+Invasive Candidiasis	C1609535	Invasive Candidiasis
+Breast Neoplasms	C1458155	Mammary Neoplasms
+Renal cell carcinoma	C0007134	Renal Cell Carcinoma
+Idiopathic Thrombocytopenic Purpura	C0272293	Chronic idiopathic thrombocytopenic purpura
+Skin Diseases	C0037274	Dermatologic disorders
+Gonorrhea	C0018081	Gonorrhea
+Transplantation, Organ	C0029216	Organ Transplantation
+Oedema, Pulmonary	C0034063	Pulmonary Edema
+Cholestasis	C0008370	Cholestasis
+Hypertension, Pulmonary	C0020542	Pulmonary Hypertension
+Clostridium difficile infection	C0343386	Clostridium difficile infection
+Hepatocellular Carcinoma (HCC)	C2239176	Liver carcinoma
+Partial-onset Seizures		
+Refractory Partial Seizures		
+acellular pertussis; Diphtheria; Haemophilus influenzae type b; Hepatitis B; Poliomyelitis; Tetanus		
+Partial Onset Seizures		
+Psoriatic arthritis	C0003872	Arthritis, Psoriatic
+Vasculitis	C0042384	Vasculitis
+Autoimmune Diseases	C0004364	Autoimmune Diseases
+Wound Healing	C0043240	Wound Healing
+Tendon Injuries	C0039504	Tendon Injuries
+Healthy Volunteers	C1708335	Healthy Volunteers
+Virus Diseases	C0042769	Virus Diseases
+Neoplasms	C0027651	Neoplasms
+Pulmonary Arterial Hypertension	C2973725	Pulmonary arterial hypertension
+Breast cancer	C0006142	Malignant neoplasm of breast
+Influenza	C0021400	Influenza
+Tobacco Use Disorder	C0040336	Tobacco Use Disorder
+Hereditary Periodic Fevers	C0751422	Hereditary Autoinflammatory Diseases
+Chronic Lymphocytic Leukemia (CLL)	C0023434	Chronic Lymphocytic Leukemia 
+Carcinoma, Small Cell	C0262584	Carcinoma, Small Cell
+Lymphoma, Mantle-Cell	C4721414	Mantle cell lymphoma
+Eczema	C0013595	Eczema
+Mastocytosis	C0024899	Mastocytosis
+Myelodysplastic syndrome (MDS)	C3463824	MYELODYSPLASTIC SYNDROME
+Psoriasis, Palmoplantar	C4476828	Palmoplantar psoriasis
+Psoriasis, nail	C0406322	Psoriasis of nail
+Prostate Cancer	C0376358	Malignant neoplasm of prostate
+Acute myeloid leukemia	C0023467	Leukemia, Myelocytic, Acute
+Adrenocortical carcinoma	C0206686	Adrenocortical carcinoma
+Endometriosis	C0014175	Endometriosis
+Diabetic macular edema	C0730285	Macular edema due to diabetes mellitus
+Relapsing-remitting Multiple Sclerosis	C0751967	Multiple Sclerosis, Relapsing-Remitting
+Toxoplasmosis	C0040558	Toxoplasmosis
+Prostate cancer	C0376358	Malignant neoplasm of prostate
+Diabetic kidney disease	C0011881	Diabetic Nephropathy
+Chronic constipation	C0401149	Chronic constipation
+Relapsing Remitting Multiple Sclerosis	C0751967	Multiple Sclerosis, Relapsing-Remitting
+Solid tumors	C0280100	Solid Neoplasm
+Bladder Pain	C0232849	Bladder pain
+Ovarian cancer	C1140680	Malignant neoplasm of ovary
+Invasive fungal infection	C1262313	Invasive Fungal Infections
+Tooth Erosion	C0040436	Tooth Erosion
+Diabetic Neuropathic Pain	C3714625	Neuropathic pain
+Nutritional supplement	C0242295	Dietary Supplements
+Sjoegren's syndrome	C1527336	Sjogren's Syndrome
+Myelofibrosis	C0026987	Myelofibrosis
+Chronic myeloid leukemia (CML)	C0279543	Philadelphia chromosome positive chronic myelogenous leukemia
+Uncontrolled asthma	C5880014	Uncontrolled asthma
+Rheumatoid arthritis	C0003873	Rheumatoid Arthritis
+Mycoses	C0026946	Mycoses
+Myasthenia gravis	C0026896	Myasthenia Gravis
+Skin Care	C0150773	Skin Care
+SMA - Spinal Muscular Atrophy	C0026847	Spinal Muscular Atrophy
+Persistent Asthma	C3266628	Persistent asthma
+HER2-Negative Metastatic Breast Cancer	C4733095	HER2 negative breast cancer
+Dementia with Lewy bodies	C0752347	Lewy Body Disease
+Metastatic Triple-Negative Breast Cancer	C3539878	Triple Negative Breast Neoplasms
+Lupus Erythematosus, Cutaneous	C0024137	Lupus Erythematosus, Cutaneous
+Hepatocellular carcinoma (HCC)	C2239176	Liver carcinoma
+Metastatic melanoma	C0278883	Metastatic melanoma
+Neuroendocrine Tumors (NET)	C0206754	Neuroendocrine Tumors
+Renal cell carcinoma (RCC)	C0007134	Renal Cell Carcinoma
+Neovascular Age-Related Macular Degeneration	C5852774	Nonexudative neovascular age-related macular degeneration
+Sickle cell disease	C0002895	Anemia, Sickle Cell
+asthma	C0004096	Asthma
+Pancreatic neuroendocrine tumor (PNET)	C4305467	Neuroendocrine tumor of pancreas
+Carcinoid tumor	C0007095	Carcinoid Tumor
+Urticaria	C0042109	Urticaria
+Cancer|Neoplasms	C0006826	Malignant Neoplasms
+Type 2 Diabetes	C0011860	Diabetes Mellitus, Non-Insulin-Dependent
+Cough	C0010200	Coughing
+Alzheimers Disease	C0002395	Alzheimer's Disease
+Carcinoma, Midline	C0555255	Carcinoma of midline of tongue
+Antifungal Agents	C0003308	Antifungal Agents
+HIV Infections	C0019693	HIV Infections
+Chronic Plaque Psoriasis	C0406317	Chronic small plaque psoriasis
+Plaque Psoriasis	C0406317	Chronic small plaque psoriasis
+Migraine	C0149931	Migraine Disorders
+Relapse-Remitting Multiple Sclerosis	C0751967	Multiple Sclerosis, Relapsing-Remitting
+Relapsing-Remitting Multiple Sclerosis	C0751967	Multiple Sclerosis, Relapsing-Remitting
+Eosinophilic Asthma	C0034068	Pulmonary Eosinophilia
+Non-radiographic Spondyloarthritis	C3889038	Non-Radiographic Axial Spondyloarthritis
+Spondyloarthritis	C0949690	Spondylarthritis
+Hypercholesterolemia	C0020443	Hypercholesterolemia
+Bipolar I Disorder	C0853193	Bipolar I disorder
+Metastases, Brain	C0220650	Metastatic malignant neoplasm to brain
+Retinopathy of Prematurity	C0035344	Retinopathy of Prematurity
+Heart Failure With Preserved Ejection Fraction	C1135196	Heart Failure, Diastolic
+Spondylitis, Ankylosing	C0038013	Ankylosing spondylitis
+Lupus Nephritis	C0024143	Lupus Nephritis
+Relapsing Multiple Sclerosis	C0751967	Multiple Sclerosis, Relapsing-Remitting
+Esophageal cancer	C0546837	Malignant neoplasm of esophagus
